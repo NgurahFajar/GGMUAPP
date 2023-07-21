@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">GGMU</string>
+    <string name="Splash">#GGMU</string>
+    <string name="nama_legenda">Nama Legenda</string>
+    <string name="description">Deskripsi</string>
+    <string name="about_me">About Me</string>
+    <string name="email">agungfajar194@gmail.com</string>
+    <string name="namaku">I Gusti Agung Ngurah Fajar Dharmawangsa</string>
+    <string name="share">SHARE</string>
+    <string name="jumlah_goal">Jumlah Goal</string>
+    <string name="prestasi">Prestasi Yang Pernah Dicapai</string>
+<!--    <string-array name="data_legenda">-->
+<!--        <item>Alex Ferguson</item>-->
+<!--        <item>Roy Keane</item>-->
+<!--        <item>Gary Neville</item>-->
+<!--        <item>Cristiano Ronaldo</item>-->
+<!--        <item>Paul Scholes</item>-->
+<!--        <item>Van Der Sar</item>-->
+<!--        <item>Wayne Rooney</item>-->
+<!--        <item>Luis Nani</item>-->
+<!--        <item>Patrice Evra</item>-->
+<!--        <item>Rio Ferdinand</item>-->
+<!--    </string-array>-->
+<!--    <string-array name="data_description">-->
+<!--        <item> Sir Alexander Chapman "Alex" Ferguson CBE (lahir 31 Desember 1941) adalah seorang pelatih dan mantan pemain sepak bola berkebangsaan Skotlandia, yang pernah menangani Manchester United, Sir Alex dianggap sebagai salah satu pelatih terbaik dalam sejarah</item>-->
+<!--        <item>Roy Maurice Keane (lahir 10 Agustus 1971 di Mayfield, Cork, Irlandia) adalah mantan pemain sepak bola profesional dan saat ini merupakan assisten dari tim nasional Republik Irlandia.Seorang sentral dominan-gelandang, Keane disebut-sebut sebagai salah satu pemain terbaik di eranya.</item>-->
+<!--        <item>Gary Alexander Neville (lahir 18 Februari 1975) merupakan seorang mantan pemain sepak bola asal Inggris. Neville dahulu berposisi sebagai bek kanan dan bermain untuk Manchester United selama kariernya. </item>-->
+<!--        <item>Cristiano Ronaldo memainkan peran menyerang, paling sering bermain baik sebagai striker atau sebagai pemain sayap,[45][46] dan dikenal karena finishing, kecepatan, dribbling, positioning, passing dan kemampuan crossing.</item>-->
+<!--        <item>Paul Scholes (lahir 16 November 1974) adalah mantan pemain sepak bola dari Inggris yang menghabiskan semua kariernya bermain untuk klub Manchester United. Ia memulai Karier debutnya pada musim 1994 sampai 1995 dan menjadi Pemain kunci ketika United memenangkan Treble Winners pada musim 1998 sampai 1999</item>-->
+<!--        <item>Edwin van der Sar yang lahir 29 Oktober 1970 adalah seorang mantan pemain sepak bola profesional asal Belanda, yang bermain sebagai penjaga gawang. Ia pernah bermain untuk klub Manchester United di Liga Utama Inggris.</item>-->
+<!--        <item>Wayne Mark Rooney yang lahir 24 Oktober 1985 adalah seorang pelatih dan mantan pemain sepak bola profesional yang kini menjadi kepala pelatih klub MLS D.C. United. Sebagai pemain profesional, Rooney dikenal saat bermain sebagai penyerang</item>-->
+<!--        <item>Luís Carlos Almeida da Cunha (lahir 17 November 1986), lebih dikenal sebagai Nani  adalah seorang pemain sepak bola profesional asal Portugal yang bermain sebagai gelandang sayap </item>-->
+<!--        <item>Patrice Evra (lahir 15 Mei 1981) adalah mantan pemain sepak bola Prancis-Senegal, yang terakhir kali bermain untuk klub Inggris Manchester United. Dia dulu bermain di posisi bek kiri walaupun dia juga dapat bermain di posisi sayap kiri.</item>-->
+<!--        <item>Rio Ferdinand (lahir 7 November 1978) adalah seorang pemain sepak bola Inggris. Seorang bek tengah, dia terakhir bermain di Queens Park Rangers. Ia bermain 81 kali untuk tim nasional sepak bola Inggris antara tahun 1997 dan 2011</item>-->
+<!--    </string-array>-->
+<!--    <string-array name="data_photo">-->
+<!--        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Alex_Ferguson.jpg/300px-Alex_Ferguson.jpg</item>-->
+<!--        <item>https://cdn.united.no/uploads/2013/05/GettyImages-2932719-540x700.jpg</item>-->
+<!--        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gary_Neville.jpg/330px-Gary_Neville.jpg</item>-->
+<!--        <item>https://www.fimlydivas.com/wp-content/uploads/2022/02/Cristiano-Ronaldo.png</item>-->
+<!--        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Paul_Scholes.jpg/330px-Paul_Scholes.jpg</item>-->
+<!--        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Edwin_van_der_Sar_side.jpg/405px-Edwin_van_der_Sar_side.jpg</item>-->
+<!--        <item>https://upload.wikimedia.org/wikipedia/commons/6/60/Zarya-MU_%286%29.jpg</item>-->
+<!--        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/New_Zealand-Portugal_Nani.jpg/330px-New_Zealand-Portugal_Nani.jpg</item>-->
+<!--        <item>https://img.a.transfermarkt.technology/portrait/big/5285-1416219199.jpg?lm=1</item>-->
+<!--        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Rio_Ferdinand.jpg/330px-Rio_Ferdinand.jpg</item>-->
+<!--    </string-array>-->
+<!--    <string-array name="data_deskripsi">-->
+<!--        <item> seorang pelatih dan mantan pemain sepak bola berkebangsaan Skotlandia, yang pernah menangani Manchester United, Sir Alex dianggap sebagai salah satu pelatih terbaik dalam sejarah</item>-->
+<!--        <item>Roy Maurice Keane (lahir 10 Agustus 1971 di Mayfield, Cork, Irlandia) adalah mantan pemain sepak bola profesional dan saat ini merupakan assisten dari tim nasional Republik Irlandia.Seorang sentral dominan-gelandang, Keane disebut-sebut sebagai salah satu pemain terbaik di eranya.</item>-->
+<!--        <item>Gary Alexander Neville (lahir 18 Februari 1975) merupakan seorang mantan pemain sepak bola asal Inggris. Neville dahulu berposisi sebagai bek kanan dan bermain untuk Manchester United selama kariernya. </item>-->
+<!--        <item>Cristiano Ronaldo memainkan peran menyerang, paling sering bermain baik sebagai striker atau sebagai pemain sayap,[45][46] dan dikenal karena finishing, kecepatan, dribbling, positioning, passing dan kemampuan crossing.</item>-->
+<!--        <item>Paul Scholes (lahir 16 November 1974) adalah mantan pemain sepak bola dari Inggris yang menghabiskan semua kariernya bermain untuk klub Manchester United. Ia memulai Karier debutnya pada musim 1994 sampai 1995 dan menjadi Pemain kunci ketika United memenangkan Treble Winners pada musim 1998 sampai 1999</item>-->
+<!--        <item>Edwin van der Sar yang lahir 29 Oktober 1970 adalah seorang mantan pemain sepak bola profesional asal Belanda, yang bermain sebagai penjaga gawang. Ia pernah bermain untuk klub Manchester United di Liga Utama Inggris.</item>-->
+<!--        <item>Wayne Mark Rooney yang lahir 24 Oktober 1985 adalah seorang pelatih dan mantan pemain sepak bola profesional yang kini menjadi kepala pelatih klub MLS D.C. United. Sebagai pemain profesional, Rooney dikenal saat bermain sebagai penyerang</item>-->
+<!--        <item>Luís Carlos Almeida da Cunha (lahir 17 November 1986), lebih dikenal sebagai Nani  adalah seorang pemain sepak bola profesional asal Portugal yang bermain sebagai gelandang sayap </item>-->
+<!--        <item>Patrice Evra (lahir 15 Mei 1981) adalah mantan pemain sepak bola Prancis-Senegal, yang terakhir kali bermain untuk klub Inggris Manchester United. Dia dulu bermain di posisi bek kiri walaupun dia juga dapat bermain di posisi sayap kiri.</item>-->
+<!--        <item>Rio Ferdinand (lahir 7 November 1978) adalah seorang pemain sepak bola Inggris. Seorang bek tengah, dia terakhir bermain di Queens Park Rangers. Ia bermain 81 kali untuk tim nasional sepak bola Inggris antara tahun 1997 dan 2011</item>-->
+<!--    </string-array>-->
+</resources>
